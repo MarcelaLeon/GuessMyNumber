@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Happy-Dance.ttf",
+      "sha1": "1d28de071512cec5a75536ebbcc1e8c5f322e554"
+    },
+    {
+      "path": "assets/fonts/Jonathan-Hetegral.otf",
+      "sha1": "bd0d65921f454ecd0398e3c82b815dd26770b94f"
+    },
+    {
+      "path": "assets/fonts/NT-Adventure.otf",
+      "sha1": "1d615ad30d26d74213810fae0eef8862425d032c"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "0ad533c702f9ac1de717063040426858662cfbcc"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "dc9c07303a2392f9ee02fdb636814970753ac94a"
+    }
+  ]
+}
